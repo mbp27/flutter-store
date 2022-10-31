@@ -1,4 +1,4 @@
-# pitjarusstore
+# flutterstoretest
 
 A new Flutter project using version 3.3.6.
 
